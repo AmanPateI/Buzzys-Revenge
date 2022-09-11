@@ -1,6 +1,5 @@
 /*
 Author: Aman Patel
-Class: ECE 4122
 Last Date Modified: 10/26/2021
 
 Description: Buzzy's Revenge game
